@@ -1,0 +1,16 @@
+syntax: glob
+
+*.aps
+*.bsc
+*.ipch
+*.opensdf
+*.orig
+*.rej
+*.sdf
+*.suo
+*.swp
+*.tps
+*.user
+*~
+build*
+*.pyc

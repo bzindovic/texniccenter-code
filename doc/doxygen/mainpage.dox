@@ -1,0 +1,15 @@
+/* $Id$ */
+
+/**
+    \mainpage notitle
+
+\section welcome Welcome to the source code documentation of TeXnicCenter
+
+TeXnicCenter is an Integrated Development Environment (IDE) for writing
+TeX/LaTeX-documents on Microsoft Windows platforms. It provides a lot of
+enhanced features like structure parsing, project management, syntax
+highlighting, etc.
+
+You can find the homepage of TeXnicCenter at http://www.texniccenter.org.
+
+*/
